@@ -37,7 +37,7 @@ DEFAULT_TEMPLATE = """
 <body>
     <div class="container">
 	<table><tr><td>
-	<a title="Back to home" href=""><img src="logo32.png" alt="Iridium logo" /></a>
+	<a title="Back to home" href=""><img src="logo48.png" alt="Iridium logo" /></a>
 	</td><td style="padding-left: 10px;" valign="middle">
 	<h1>%(h1)s</h1>
 	</td></tr></table>
